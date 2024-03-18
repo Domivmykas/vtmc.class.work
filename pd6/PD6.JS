@@ -1,0 +1,13 @@
+let funnyNumber = 12345;
+let funnyString = '12345';
+let funnyTrue = '1';
+let funnyFalse = '0';
+let isTrue = false;
+let isFalse = true;
+let funnyText = 'JavaScript is dynamic programming language.';
+let funnyNull = null;
+let funnyUndefined = undefined;
+let isTrue = true;
+let isFalse = false;
+let booleanString = 'true';
+let otherBooleanString = 'false';
